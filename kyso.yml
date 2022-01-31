@@ -1,0 +1,6 @@
+main: "index.ipynb"
+title: "IBM Jupyter Examples"
+organization: "lightside"
+team: "protected-team"
+description: "A set of Jupyter notebooks examples done by IBM"
+importPath: "./"
